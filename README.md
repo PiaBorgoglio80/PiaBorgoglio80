@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Role-Fullstack%20Developer-dodgerblue" />
   <br>
   <img src="https://img.shields.io/badge/Languages-Spanish%20(Native)-dodgerblue" />
-  <img src="https://img.shields.io/badge/Languages-English%20(C1)-dodgerblue" />
+  <img src="https://img.shields.io/badge/Languages-English%20(B2 intermedio-alto)-dodgerblue" />
 </p>
 <br>
 
@@ -39,33 +39,32 @@ Me gusta escribir código limpio, entender el "por qué" detrás de cada decisi�
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"><b> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Skills
 
 <p align="center">
 
 <!-- Lenguajes -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
 
 <!-- Backend -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-<img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+<img src="https://nestjs.com/img/logo-small.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
 
-<!-- Base de datos -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-<img src="https://seeklogo.com/images/T/typeorm-logo-F4CE40D7E6-seeklogo.com.png" alt="TypeORM" width="40" height="40"/>
+<!-- Database -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*vK2XkWlVO5a3nJLU5zVV2w.png" width="40" alt="TypeORM" />
 
 <!-- Frontend -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-<img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" alt="Styled Components" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+<img src="https://vitejs.dev/logo.svg" width="40" />
+<img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" width="40" />
 
 <!-- Herramientas -->
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Swagger-logo.png" alt="Swagger" width="40" height="40"/>
-<img src="https://avatars.githubusercontent.com/u/37604357?s=280&v=4" alt="Nodemailer" width="40" height="40"/>
-<img src="https://pdfmake.github.io/docs/images/pdfmake-logo.png" alt="PDFMake" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+<img src="https://raw.githubusercontent.com/swagger-api/swagger.io/wordpress/images/assets/SW-logo-clr.png" width="40" />
+<img src="https://pdfmake.github.io/docs/images/pdfmake-logo.png" width="40" />
 
 </p>
 
