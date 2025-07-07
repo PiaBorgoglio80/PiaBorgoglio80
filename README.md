@@ -41,32 +41,28 @@ Me gusta escribir código limpio, entender el "por qué" detrás de cada decisi�
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Skills
 
-<p align="center">
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br>JavaScript</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/><br>TypeScript</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br>Node.js</td>
+    <td align="center"><img src="https://nestjs.com/img/logo-small.svg" width="40"/><br>NestJS</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/><br>Express</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/><br>PostgreSQL</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/TypeORM_Logo.png" width="40"/><br>TypeORM</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br>React</td>
+    <td align="center"><img src="https://vitejs.dev/logo.svg" width="40"/><br>Vite</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" width="40"/><br>Styled Comp.</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br>Git</td>
+    <td align="center"><img src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-vy1j2z6e.png" width="40"/><br>Swagger</td>
+    <td align="center"><img src="https://pdfmake.github.io/docs/images/pdfmake-logo.png" width="40"/><br>PDFMake</td>
+  </tr>
+</table>
 
-<!-- Lenguajes -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
-
-<br/>
-
-<!-- Backend / Bases de datos -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="NodeJS"/>
-<img src="https://nestjs.com/img/logo-small.svg" width="40" alt="NestJS"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
-<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*vK2XkWlVO5a3nJLU5zVV2w.png" width="40" alt="TypeORM"/>
-
-<br/>
-
-<!-- Frontend y Herramientas -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
-<img src="https://vitejs.dev/logo.svg" width="40" alt="Vite"/>
-<img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" width="40" alt="Styled Components"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-<img src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-vy1j2z6e.png" width="40" alt="Swagger"/>
-<img src="https://pdfmake.github.io/docs/images/pdfmake-logo.png" width="40" alt="PDFMake"/>
-
-</p>
 
 
 ---
