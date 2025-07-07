@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Role-Fullstack%20Developer-dodgerblue" />
   <br>
   <img src="https://img.shields.io/badge/Languages-Spanish%20(Native)-dodgerblue" />
-  <img src="https://img.shields.io/badge/Languages-English%20(B2 intermedio-alto)-dodgerblue" />
+  <img src="https://img.shields.io/badge/Languages-English%20(B2)-dodgerblue" />
 </p>
 <br>
 
@@ -44,29 +44,30 @@ Me gusta escribir código limpio, entender el "por qué" detrás de cada decisi�
 <p align="center">
 
 <!-- Lenguajes -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
 
-<!-- Backend -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-<img src="https://nestjs.com/img/logo-small.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
+<br/>
 
-<!-- Database -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
-<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*vK2XkWlVO5a3nJLU5zVV2w.png" width="40" alt="TypeORM" />
+<!-- Backend / Bases de datos -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="NodeJS"/>
+<img src="https://nestjs.com/img/logo-small.svg" width="40" alt="NestJS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
+<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*vK2XkWlVO5a3nJLU5zVV2w.png" width="40" alt="TypeORM"/>
 
-<!-- Frontend -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-<img src="https://vitejs.dev/logo.svg" width="40" />
-<img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" width="40" />
+<br/>
 
-<!-- Herramientas -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-<img src="https://raw.githubusercontent.com/swagger-api/swagger.io/wordpress/images/assets/SW-logo-clr.png" width="40" />
-<img src="https://pdfmake.github.io/docs/images/pdfmake-logo.png" width="40" />
+<!-- Frontend y Herramientas -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
+<img src="https://vitejs.dev/logo.svg" width="40" alt="Vite"/>
+<img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" width="40" alt="Styled Components"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+<img src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-vy1j2z6e.png" width="40" alt="Swagger"/>
+<img src="https://pdfmake.github.io/docs/images/pdfmake-logo.png" width="40" alt="PDFMake"/>
 
 </p>
+
 
 ---
 
