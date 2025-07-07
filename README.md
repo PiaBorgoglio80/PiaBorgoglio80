@@ -43,29 +43,29 @@ Me gusta escribir código limpio, entender el "por qué" detrás de cada decisi�
 
 <p align="center">
 
-<!-- Languages -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
+<!-- Lenguajes -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
 
 <!-- Backend -->
-<a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/></a>
-<a href="https://nestjs.com/"><img src="https://nestjs.com/img/logo-small.svg" width="40" height="40"/></a>
-<a href="https://expressjs.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="40" height="40"/></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+<img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
 
-<!-- Database -->
-<a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/></a>
-<a href="https://typeorm.io/"><img src="https://seeklogo.com/images/T/typeorm-logo-F4CE40D7E6-seeklogo.com.png" width="40" height="40"/></a>
+<!-- Base de datos -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+<img src="https://seeklogo.com/images/T/typeorm-logo-F4CE40D7E6-seeklogo.com.png" alt="TypeORM" width="40" height="40"/>
 
 <!-- Frontend -->
-<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/></a>
-<a href="https://vitejs.dev/"><img src="https://vitejs.dev/logo.svg" width="40" height="40"/></a>
-<a href="https://styled-components.com/"><img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" width="40" height="40"/></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+<img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" alt="Styled Components" width="40" height="40"/>
 
-<!-- Tools -->
-<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
-<a href="https://swagger.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Swagger-logo.png" width="40" height="40"/></a>
-<a href="https://nodemailer.com/"><img src="https://avatars.githubusercontent.com/u/37604357?s=280&v=4" width="40" height="40"/></a>
-<a href="https://pdfmake.github.io/docs/0.1/"><img src="https://pdfmake.github.io/docs/images/pdfmake-logo.png" width="40" height="40"/></a>
+<!-- Herramientas -->
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Swagger-logo.png" alt="Swagger" width="40" height="40"/>
+<img src="https://avatars.githubusercontent.com/u/37604357?s=280&v=4" alt="Nodemailer" width="40" height="40"/>
+<img src="https://pdfmake.github.io/docs/images/pdfmake-logo.png" alt="PDFMake" width="40" height="40"/>
 
 </p>
 
