@@ -8,8 +8,9 @@
 **About me**
 
 <picture>
-  <img align="right" src="https://github.com/PiaBorgoglio80/nombre-repo/blob/main/ruta-de-tu-imagen.png?raw=true" width="400px" />
+  <img align="right" src="https://raw.githubusercontent.com/PiaBorgoglio80/PiaBorgoglio80/main/readme-avatar.png" width="400px" />
 </picture>
+
 <p align="left">
   <img src="https://img.shields.io/badge/Focus-Backend%20Development-dodgerblue" />
   <img src="https://img.shields.io/badge/Role-Fullstack%20Developer-dodgerblue" />
