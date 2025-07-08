@@ -41,17 +41,18 @@ Me gusta escribir código limpio, entender el "por qué" detrás de cada decisi�
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Skills
 
+
 <table align="center">
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br>JavaScript</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/><br>TypeScript</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br>Node.js</td>
     <td align="center"><img src="https://nestjs.com/img/logo-small.svg" width="40"/><br>NestJS</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" style="filter: brightness(0) invert(1);"/><br>Express</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" style="filter: brightness(0) invert(1);"/><br><span style="color:white;">Express</span></td>
   </tr>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/><br>PostgreSQL</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/TypeORM_Logo.png" width="40"/><br>TypeORM</td>
+    <td align="center">🟨<br>TypeORM</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br>React</td>
     <td align="center"><img src="https://vitejs.dev/logo.svg" width="40"/><br>Vite</td>
     <td align="center"><img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" width="40"/><br>Styled Comp.</td>
@@ -59,7 +60,7 @@ Me gusta escribir código limpio, entender el "por qué" detrás de cada decisi�
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br>Git</td>
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/swagger.svg" width="40"/><br>Swagger</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" width="40"/><br>PDFMake</td>
+    <td align="center">📄<br>PDFMake</td>
   </tr>
 </table>
 
