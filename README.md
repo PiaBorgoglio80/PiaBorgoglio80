@@ -82,7 +82,7 @@ Me gusta escribir código limpio, entender el "por qué" detrás de cada decisi�
 ## 🤝 Contáctame
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pia-borgoglio" target="_blank">
+  <a href="https://www.linkedin.com/in/piaborgogliodev/" target="_blank">
     <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" />
   </a>
   <a href="mailto:piabrgoglio80@gmail.com">
