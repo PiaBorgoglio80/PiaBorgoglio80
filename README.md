@@ -47,21 +47,22 @@ Me gusta escribir código limpio, entender el "por qué" detrás de cada decisi�
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/><br>TypeScript</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br>Node.js</td>
     <td align="center"><img src="https://nestjs.com/img/logo-small.svg" width="40"/><br>NestJS</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/><br>Express</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" style="filter: brightness(0) invert(1);"/><br>Express</td>
   </tr>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/><br>PostgreSQL</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/TypeORM_Logo.png" width="40"/><br>TypeORM</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br>React</td>
     <td align="center"><img src="https://vitejs.dev/logo.svg" width="40"/><br>Vite</td>
-    <td align="center"><img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" width="40"/><br>Styled Comp.</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" width="40"/><br>Styled Comp.</td>
   </tr>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br>Git</td>
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/swagger.svg" width="40"/><br>Swagger</td>
-    <td align="center"><img src="https://img.icons8.com/color/48/pdf.png" width="40"/><br>PDFMake</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" width="40"/><br>PDFMake</td>
   </tr>
 </table>
+
 
 
 
