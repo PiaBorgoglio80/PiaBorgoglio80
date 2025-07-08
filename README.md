@@ -81,6 +81,14 @@ Me gusta escribir código limpio, entender el "por qué" detrás de cada decisi�
 
 ## 🤝 Contáctame
 
+## <img src="https://img.icons8.com/office/40/resume.png" width="30"/> Descargar CV
+
+<p align="center">
+  <a href="./cv-piaborgoglio.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/CV-Descargar-blue?style=for-the-badge&logo=read-the-docs&logoColor=white" />
+  </a>
+</p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/piaborgogliodev/" target="_blank">
     <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" />
